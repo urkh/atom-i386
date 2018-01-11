@@ -7,4 +7,5 @@ Updated versions can be found [here](https://launchpad.net/~webupd8team/+archive
 You can update your system with unsupported packages from this untrusted PPA by adding ppa:webupd8team/atom to your system's Software Sources.
 
 `sudo add-apt-repository ppa:webupd8team/atom`
+
 `sudo apt-get update`
